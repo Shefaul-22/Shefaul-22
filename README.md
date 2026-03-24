@@ -10,14 +10,14 @@
 </p>
 
 ## 💫 About Me
-[cite_start]I am a passionate **Full Stack Web Developer** specialized in the **MERN stack**[cite: 37]. [cite_start]With a strong foundation in **Data Structures and Algorithms** [cite: 38][cite_start], I focus on building modern, responsive, and pixel-perfect UIs[cite: 37, 46].
+I am a passionate **Full Stack Web Developer** specialized in the **MERN stack**. With a strong foundation in **Data Structures and Algorithms**, I focus on building modern, responsive, and pixel-perfect UIs.
 
 - 🔭 I’m currently building **[Elite-Mart](https://elite-mart-eight.vercel.app/)**, a modern e-commerce platform.
-- [cite_start]🏢 Previously worked as a **Frontend Developer Intern** at Alt Design Office, Bangkok.
-- [cite_start]🏆 Participated in **ICPC Dhaka Regional Site 2023** (Mock)[cite: 63].
+- 🏢 Previously worked as a **Frontend Developer Intern** at Alt Design Office, Bangkok.
+- 🏆 Participated in **ICPC Dhaka Regional Site 2023** (Mock).
 - 🌱 Currently exploring **Next.js 15, Framer Motion, and AI Integration**.
 - 💬 Ask me about **React, Tailwind CSS, or Backend Optimization**.
-- [cite_start]📫 Reach me at: **shefaulkarim.dev@gmail.com**.
+- 📫 Reach me at: **shefaulkarim.dev@gmail.com**.
 
 ## 🚀 Technical Skills
 ### 💻 Frontend & Design
