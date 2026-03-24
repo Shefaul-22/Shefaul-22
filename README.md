@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Tech%20Space&fontSize=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Tech%20Space&fontSize=40" width="100%" />
 </p>
 
 ## 💫 About Me
