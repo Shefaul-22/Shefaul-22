@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Mohammad Shefaul Karim</h1>
-<h3 align="center">Junior MERN Stack Developer | Problem Solver | M.Sc. in CSE</h3>
+<h3 align="center">Junior MERN Stack Developer | Problem Solver | M.Sc. in CSE (Ongoing)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shefaul-22&label=Profile%20views&color=0e75b6&style=flat" alt="Shefaul-22" />
