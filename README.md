@@ -62,7 +62,7 @@ I am a passionate **Full Stack Web Developer** specialized in the **MERN stack**
 
 ## 🏆 Competitive Programming Profiles
 <p align="left">
-<a href="https://leetcode.com/u/your-handle" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/your-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://vjudge.net/user/your-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Vjudge-0073B7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vjudge" /></a>
+<a href="[https://leetcode.com/u/your-handle](https://leetcode.com/u/hA4FEKtNm4/)" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="[https://codeforces.com/profile/your-handle](https://codeforces.com/profile/shefaul11)" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="[https://vjudge.net/user/your-handle](https://vjudge.net/user/Shefaulkarim11)" target="blank"><img align="center" src="https://img.shields.io/badge/Vjudge-0073B7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vjudge" /></a>
 </p>
